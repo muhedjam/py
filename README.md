@@ -20,5 +20,6 @@ will follow
 will follow
 
 ## License
+The content of this site is licensed under the MIT License
 will 
 ========================
